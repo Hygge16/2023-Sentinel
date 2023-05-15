@@ -1,0 +1,10 @@
+development_bord_c_ins\arm_cos_f32.o: ..\USER\Algorithm\Src\arm_cos_f32.c
+development_bord_c_ins\arm_cos_f32.o: ../Middlewares/ST/ARM/DSP/Inc/arm_math.h
+development_bord_c_ins\arm_cos_f32.o: ../Drivers/CMSIS/Include/core_cm4.h
+development_bord_c_ins\arm_cos_f32.o: D:\keil_mdk\ARM\ARMCC\Bin\..\include\stdint.h
+development_bord_c_ins\arm_cos_f32.o: ../Drivers/CMSIS/Include/cmsis_version.h
+development_bord_c_ins\arm_cos_f32.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+development_bord_c_ins\arm_cos_f32.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+development_bord_c_ins\arm_cos_f32.o: D:\keil_mdk\ARM\ARMCC\Bin\..\include\string.h
+development_bord_c_ins\arm_cos_f32.o: D:\keil_mdk\ARM\ARMCC\Bin\..\include\math.h
+development_bord_c_ins\arm_cos_f32.o: ../USER/Algorithm/Inc/arm_common_tables.h
